@@ -1,0 +1,22 @@
+.header {
+  margin-top: 60px;
+}
+
+.headerTittles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Lora", serif;
+  color: #444;
+}
+
+.headerTittleSm {
+  font-size: 80px;
+  font-weight: 900;
+  color: #000;
+}
+.headerTittleLg {
+  font-size: 30px;
+  font-weight: 500;
+  color: #000;
+}

@@ -1,0 +1,57 @@
+.form input {
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+}
+
+.card {
+  width: 400px;
+  height: 80px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 10px;
+  align-items: center;
+}
+
+#updateInput {
+  width: 90px;
+  height: 18px;
+}
+
+.main {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.message {
+  margin-top: 20px;
+  width: 300px;
+  height: 40px;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+.submit {
+  height: 42px;
+  border-radius: 15px;
+}
+
+h4 {
+  margin: 10px;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+input {
+  text-align: center;
+}
+h1 {
+  margin: 20px;
+}
